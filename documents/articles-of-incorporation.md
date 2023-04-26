@@ -60,7 +60,8 @@ The registered agent name is: [This will be our lawyer] and the registered agent
 |Yanovitch|Rachel|1044 N. Clarkson St. Denver, CO 80218|
 
 ## Article 7. Board of Directors 
-(c) The number and terms of the board of directors, which number shall be not less than three, together with the names and the street addresses of the initial directors. If the names of the initial directors are not stated in the articles, the initial board of directors shall be designated by the incorporator or incorporators following the delivery of the articles to the secretary of state for filing.
+
+The number and terms of the board of directors, which number shall be not less than three, together with the names and the street addresses of the initial directors. If the names of the initial directors are not stated in the articles, the initial board of directors shall be designated by the incorporator or incorporators following the delivery of the articles to the secretary of state for filing.
 
 The Board of Directors will be comprised of 3 board members with positions and term lengths defined in the bylaws. The initial directors is stated in the bylaws. 
 
