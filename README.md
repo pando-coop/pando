@@ -4,6 +4,10 @@ This repository is a public collection of documents, templates, and processes fr
 
 These documents are not a perfect blueprint. They are a record of what we have used, what we are learning from, and what may be useful to adapt.
 
+## Check out our origin story
+
+Watch our [Retrofit Community Case Study: Pando Collective](https://www.youtube.com/watch?v=qJHpmOt9qr8) presentation from the 2026 Community Rooted Housing Summit in Denver, CO.
+
 ## How To Use This
 
 You are welcome to read, copy, remix, and adapt these documents for your own organizing work. A few suggestions:
