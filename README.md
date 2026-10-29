@@ -6,7 +6,7 @@ These documents are not a perfect blueprint. They are a record of what we have u
 
 ## Check out our origin story
 
-For an introduction to our co-op, watch our [Retrofit Community Case Study: Pando Collective](https://www.youtube.com/watch?v=qJHpmOt9qr8) presentation from the 2026 Community Rooted Housing Summit in Denver, CO.
+Check out our [Retrofit Community Case Study: Pando Collective](https://www.youtube.com/watch?v=qJHpmOt9qr8) presentation from the 2026 Community Rooted Housing Summit in Denver, CO.
 
 ## How To Use This
 
